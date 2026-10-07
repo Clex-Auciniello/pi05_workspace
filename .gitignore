@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Checkpoints
+checkpoints/*
+!checkpoints/.gitkeep
+
+# Dataset / local assets
+dataset/statistics/*
+!dataset/statistics/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
