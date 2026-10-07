@@ -3,4 +3,4 @@
 	url = https://github.com/Physical-Intelligence/openpi.git
 [submodule "external/lerobot"]
 	path = external/lerobot
-	url = https://github.com/huggingface/lerobot.git
+	url = https://github.com/ciccio42/lerobot.git
